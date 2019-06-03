@@ -92,7 +92,7 @@ class ViewController: UIViewController, UITableViewDataSource {
         return cell
     }
     
-    
+     
     
     //Cett fo,ction seule Fait apparaite le bouton rouge
     //COMPATIBLE AVEC SUPPRESSION, surveille les swipe delete, dès que swipe delete cette func envoi l'indexpath qui a été supprimer et c'est a nous de lui dire quoi faire
